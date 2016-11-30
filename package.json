@@ -1,0 +1,23 @@
+{
+  "name": "event",
+  "version": "1.0.0",
+  "description": "event stream",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quynv/event-stream.git"
+  },
+  "keywords": [
+    "bla",
+    "bla"
+  ],
+  "author": "javimuu & quynv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quynv/event-stream/issues"
+  },
+  "homepage": "https://github.com/quynv/event-stream#readme"
+}
